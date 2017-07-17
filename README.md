@@ -1,4 +1,4 @@
-##Ejercicio de GULP
+## Ejercicio de GULP
 Reflejando cambios inmediatos en HTML, JS y SCSS
 
 ### Dependencias instaladas en desarrollo:
